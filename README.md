@@ -2,7 +2,8 @@
 Course repository link: https://github.com/iot-lnu/applied-iot-20
 
 #### Code for the blinking lights in Node-Red
-'''javascript=16
+
+´´´javascript
 if(msg.payload.home_sensor.co2 < 1000)
 {
     msg = { payload: 
@@ -36,4 +37,4 @@ else if (msg.payload.home_sensor.co2 >= 2000)
     };
 }
 return msg;
-'''
+´´´
