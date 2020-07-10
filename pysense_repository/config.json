@@ -1,8 +1,8 @@
 {
-  "ssid": "Route27",
-  "ssid_pass": "2727272727",
-  "user_mqtt": "jorpi",
-  "pass_mqtt": "pior",
+  "ssid": "xx",
+  "ssid_pass": "xx",
+  "user_mqtt": "xx",
+  "pass_mqtt": "xx",
   "broker": "192.168.1.153",
   "topic_sub": "alert/co2",
   "topic_pub": "devices/pysense"
